@@ -1,5 +1,5 @@
 
-# wifi_password.sh
+# wifi_pass.sh
 This tool is used to fetch the logged in ssid and psk 
 on the linux platform specially on debian based distribution.
 ## Naresh
