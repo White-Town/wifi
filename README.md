@@ -12,5 +12,5 @@ install and run
 ```bash
 git clone https://github.com/White-Town/wifi
   cd wifi
-  bash wifi_password.sh
+  bash wifi_pass.sh
     
